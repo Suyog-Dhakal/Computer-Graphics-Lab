@@ -4,7 +4,6 @@
 int main()
 {
     int gd=DETECT, gm;
-
     int x1,y1,x2,y2,step,dx,dy,i;
     float x,y,xinc,yinc;
     initgraph(&gd,&gm,(char*)"");
